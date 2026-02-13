@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://moneyclaw-blog.netlify.app/sitemap.xml
+Sitemap: https://moneyclaw-blog.netlify.app/sitemap-index.xml
